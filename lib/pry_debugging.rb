@@ -3,4 +3,4 @@ def plus_two(num)
 	num
 end
 
-plus_two 5
+plus_two(5)
